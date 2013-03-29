@@ -177,7 +177,7 @@ var setup_textbox = function() {
         r.removeClass('visible');
         setTimeout(function() {
             r.remove();
-            update_matches(c, match);
+            update_matches(match);
         }, 200);
         return (e.target.id.substring(0,5) === 'form-');
     });

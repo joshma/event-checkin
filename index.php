@@ -57,7 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <div id="instructions">Enter your MIT athena username:</div>
+  <div id="instructions">Enter your Athena username:</div>
   <div id="loading" class="hide"><div>
     <div class="div0"></div>
     <div class="div1"></div>
